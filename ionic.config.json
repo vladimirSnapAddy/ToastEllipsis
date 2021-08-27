@@ -1,0 +1,7 @@
+{
+  "name": "ToastEllipsis",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
